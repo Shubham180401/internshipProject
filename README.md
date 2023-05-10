@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+this project was made to learn about the react js and to get internship without any knowledge of react js so it was my first learning and trying atempt.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
